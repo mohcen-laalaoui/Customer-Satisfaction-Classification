@@ -1,6 +1,6 @@
-# Customer Satisfaction Classification using SVM
+# Customer Satisfaction Classification using SVM and Neural Networks
 
-This project uses a Support Vector Machine (SVM) to classify customer satisfaction in the airline industry. 
+This project uses a Support Vector Machine (SVM) and a neural network to classify customer satisfaction in the airline industry. 
 The model is trained using features like flight duration, baggage complaints, in-flight service scores, and overall satisfaction ratings.
 
 ## Features
@@ -14,6 +14,7 @@ The model is trained using features like flight duration, baggage complaints, in
 
 - **Python**: Programming language for data analysis and model development.
 - **scikit-learn**: Machine learning library used for building and evaluating the SVM model.
+- **PyTorch**: Deep learning framework used for building and training the neural network model.
 - **pandas**: Library for data manipulation and analysis.
 - **numpy**: Library for numerical computing.
 - **matplotlib**: Library for data visualization.
